@@ -24,3 +24,10 @@
 
 ### 参考
 [The Rules of Extreme Programming](http://www.extremeprogramming.org/rules.html)
+
+
+
+### TODO
+
+* 添加 git 提交集成
+* 每项技术解决的问题
