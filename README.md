@@ -1,4 +1,4 @@
-# Agile Checker
+# Agile Check List
 
 敏捷，熟悉而陌生。每当说到敏捷时，很多的知识点都会从大脑的`武器库`里涌现出来：
 
